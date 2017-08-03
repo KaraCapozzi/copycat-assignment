@@ -3,8 +3,29 @@
   <head>
     <meta charset="utf-8">
     <title>Copy Cat</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
   </head>
   <body>
-
-  </body>
+<div>
+  <header>
+    <h1 class="logo">The Cat Shop</h1>
+    <nav>
+      <ul class="navbar">...</ul>
+        <li class="nav-item">Home</li>
+        <li class="nav-item">Cats</li>
+        <li class="nav-item">Products</li>
+        <li class="nav-item">About</li>
+      </ul>
+    </nav>
+  </header>
+  <main class="container"...</main>
+    <section id="home" class="hero">...</section>
+    <section id="cats" class="call-to-action">...</section>
+    <section id="products" class="products">...</section>
+    <section id="about" class="about">...</section>
+  </main>
+  <footer>© Meow 2016</footer>
+</div>
+</body>
 </html>
