@@ -1,16 +1,23 @@
+.html {
+  background: yellow;
+}
+
 .logo {
 
 }
 
-.navbar {
-
+.navbar li {
+  display: inline;
+  float: right;
+  background-color: green;
 }
 
-.nav-item {
-
+.nav-item li {
+  display: inline;
+  float: right;
 }
 
-.container {
+/*.container {
 
 }
 
@@ -27,5 +34,5 @@
 }
 
 .about {
-  
-}
+
+}*/
